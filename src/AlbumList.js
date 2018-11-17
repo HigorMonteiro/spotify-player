@@ -8,10 +8,7 @@ function createMarkup(data) {
       </div>
     </div>`).join('');
 }
-
-
 export default function renderAlbums(data, element) {
   const markup = createMarkup(data);
-
   element.innerHTML = markup;
-};
+}
