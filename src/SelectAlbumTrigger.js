@@ -1,6 +1,6 @@
 import spotify from './Spotify';
 import renderAlbumInfo from './AlbumInfo';
-import renderAlbumTracks from './createMarkup';
+import renderAlbumTracks from './AlbumTracks';
 
 const listAlbums = document.getElementById('album-list');
 const albumInfo = document.getElementById('album-info');
