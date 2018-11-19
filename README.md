@@ -35,9 +35,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-| ![Willian Justen](https://avatars0.githubusercontent.com/u/7028769?s=150&u=490871c4d67ede4bab0b64b01947b68a0229124a&v=3&s=120)|
+| ![Higor Vinicius](https://avatars0.githubusercontent.com/u/7028769?s=150&u=490871c4d67ede4bab0b64b01947b68a0229124a&v=3&s=120)|
 |:---------------------:|
-|  [Willian Justen](https://github.com/HigorMonteiro/)   |
+|  [Higor Vinicius](https://github.com/HigorMonteiro/)   |
 
 See also the list of [contributors](https://github.com/HigorMonteiro/spotify-player/contributors) who participated in this project.
 
