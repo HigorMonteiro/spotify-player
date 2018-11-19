@@ -1,8 +1,8 @@
-import SpotifyWrapper from 'spotify-wrapper-es6'
+import SpotifyWrapper from 'spotify-wrapper-es6';
 
 const spotify = new SpotifyWrapper({
   token:
-  'BQCY6Blq-O5KaGAzH5ee6THERnvNH9YkZd3NE3cBz7g6Y_e694sGfW97zRgkiVp_nFwRRWVhRYKiLR03l7yPi92kKpST54gk5Rx7jsejA2mdUGoZrZuJ__CQpfiySGM9R1tXBUb8bAfT7QhOzR2o8oe2cdF1n1Ocs_HNlQ0a8PmKv2pCStTJjVJ_DiHIeDFfERO_msnmGQyg'
+  'BQDq1lg-AnOpJ3DYGR_MWzSEX3DAldqcRWrBatVZLZOTW7_W_bPTLqXf1jD_aSJ-827itb5u_TXa2OhoNm2tUKm-Kgw2OCsjMwEEUqIslDBhX8CfgsnE908YZFfcR3nCh-OFaXcEIlbn-OvW6q4DW3rbN1B1Hp_DCmAbmrG6TRNbu0GggKSrJLKS6JlpNhLbxkDVT4ZvS6WJ',
 });
 
 export default spotify;

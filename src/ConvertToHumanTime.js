@@ -4,7 +4,5 @@ export default function convertToHumanTime(durantion) {
 
   s = (s < 10) ? `0${s}` : s;
 
-  return `${m}:${s}`
+  return `${m}:${s}`;
 }
-
-

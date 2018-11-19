@@ -1,6 +1,14 @@
 {
-    "extends": "airbnb",
-    "plugins": [
-        "import"
-    ]
+  "extends": "airbnb",
+  "plugins": [
+      "react",
+      "jsx-a11y",
+      "import"
+  ],
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-param-reassign": 0
+  }
 }
